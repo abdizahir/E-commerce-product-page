@@ -18,7 +18,7 @@ This project is a simple E-commerce Product Page built with modern frontend tool
 ![Desk Screenshot](./screenshots/Desktop.png)
 
 
-### How to install the project and run it
+### 🚀 How to install the project and run it
 1. Clone the repository
 2. Navigate to the project folder - cd your-repo-name
 3. Install dependencies - npm install
