@@ -26,7 +26,7 @@ This project is a simple E-commerce Product Page built with modern frontend tool
 
 ## 🔗 Links
 - Solution URL (GitHub Repository): [Link](https://github.com/abdizahir/E-commerce-product-page.git)  
-- Live Site URL (Deployed App): [Link](https://character-counter-orpin-tau.vercel.app/)
+- Live Site URL (Deployed App): [Link](https://e-commerce-product-page-one-rho.vercel.app/)
 
 ## 🛠️ Built With
 - React – JS library
