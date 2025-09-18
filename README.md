@@ -15,13 +15,7 @@ This project is a simple E-commerce Product Page built with modern frontend tool
 ## 📸 Screenshots
 
 ### Main Interface
-![App Screenshot](./screenshots/Desktop.png)
-
-### Mobile Interface
-![Mobile Screenshot](./screenshots/Tablet.png)
-
-### Mobile Interface
-![Mobile Screenshot](./screenshots/Mobile.png)
+![Desk Screenshot](./screenshots/Desktop.png)
 
 
 ### How to install the project and run it
@@ -31,7 +25,7 @@ This project is a simple E-commerce Product Page built with modern frontend tool
 4. Start the development server - npm run dev 
 
 ## 🔗 Links
-- Solution URL (GitHub Repository): [Link](https://github.com/abdizahir/character-counter)  
+- Solution URL (GitHub Repository): [Link](https://github.com/abdizahir/E-commerce-product-page.git)  
 - Live Site URL (Deployed App): [Link](https://character-counter-orpin-tau.vercel.app/)
 
 ## 🛠️ Built With
